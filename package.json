@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-collections-addmeta",
-  "version": "0.1.0",
+  "version": "0.1.0-alpha",
   "description": "A metalsmith plugin that adds metadata to each file in a collection",
   "repository": {
     "type": "git",

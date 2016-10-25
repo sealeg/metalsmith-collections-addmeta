@@ -1,0 +1,31 @@
+{
+  "name": "metalsmith-collections-addmeta",
+  "version": "0.1.0",
+  "description": "A metalsmith plugin that adds metadata to each file in a collection",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sealeg/metalsmith-collections-addmeta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sealeg/metalsmith-collections-addmeta/issues"
+  },
+  "homepage": "https://github.com/sealeg/metalsmith-collections-addmeta",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "metalsmith",
+    "collections",
+    "metadata",
+    "plugin"
+  ],
+  "author": "sealeg (https://github.com/sealeg)",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
+}

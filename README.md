@@ -1,5 +1,7 @@
 # metalsmith-collections-addmeta
 
+[![npm package version](https://img.shields.io/npm/v/metalsmith-collections-addmeta.svg?style=flat-square)](https://www.npmjs.com/package/metalsmith-collections-addmeta)
+
 A [Metalsmith](http://www.metalsmith.io/) plugin to add metadata to every file in a collection.
 
 Requires [metalsmith-collections](https://github.com/segmentio/metalsmith-collections).
